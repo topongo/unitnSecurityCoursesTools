@@ -1,4 +1,4 @@
-# Unitn Security Curses Tools
+# Unitn Security Courses Tools
 # en
 A set of javascript injection for making less boring the scorm-based players, used for security courses, provided by UniTN
 
